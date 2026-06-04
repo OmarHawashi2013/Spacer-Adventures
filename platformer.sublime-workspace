@@ -1,0 +1,1150 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clea",
+				"CLEARMEMORY"
+			],
+			[
+				"regist",
+				"register"
+			],
+			[
+				"Coll",
+				"collideLeft"
+			],
+			[
+				"coll",
+				"collideLeft"
+			],
+			[
+				"VK",
+				"VK_Z"
+			],
+			[
+				"for",
+				"forever"
+			],
+			[
+				"In",
+				"Input"
+			],
+			[
+				"Win",
+				"WinMain"
+			],
+			[
+				"IN",
+				"Input"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"leve",
+				"level_1"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"co",
+				"collideLeft"
+			],
+			[
+				"col",
+				"collideRight"
+			],
+			[
+				"m",
+				"my_printf"
+			],
+			[
+				"del",
+				"delay"
+			],
+			[
+				"back",
+				"backDC"
+			],
+			[
+				"sub",
+				"sub_y"
+			],
+			[
+				"cla",
+				"clamp"
+			],
+			[
+				"su",
+				"sub_x"
+			],
+			[
+				"Map",
+				"Map"
+			],
+			[
+				"map",
+				"mapW"
+			],
+			[
+				"s",
+				"sub_y"
+			],
+			[
+				"sub_",
+				"sub_x"
+			],
+			[
+				"jum",
+				"jumpForce"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"p",
+				"pv"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"ba",
+				"backDC"
+			],
+			[
+				"cam",
+				"cameraX"
+			],
+			[
+				"ca",
+				"cameraX"
+			],
+			[
+				"Pla",
+				"playerHealth"
+			],
+			[
+				"c",
+				"cover\tobject-fit"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"last",
+				"last_sub_x"
+			],
+			[
+				"ct",
+				"cti"
+			],
+			[
+				"rea",
+				"released"
+			],
+			[
+				"VK_",
+				"VK_X"
+			],
+			[
+				"cha",
+				"chargeTimer"
+			],
+			[
+				"SC",
+				"SCREEN_H"
+			],
+			[
+				"Scre",
+				"SCREEN_W"
+			],
+			[
+				"Scr",
+				"SCREEN_W"
+			],
+			[
+				"Deb",
+				"Debug"
+			],
+			[
+				"de",
+				"Debug"
+			],
+			[
+				"h",
+				"hInstance"
+			],
+			[
+				"Hi",
+				"HINSTANCE"
+			],
+			[
+				"sho",
+				"showColl"
+			],
+			[
+				"hwn",
+				"hwnd"
+			],
+			[
+				"hwnd",
+				"hwndv"
+			],
+			[
+				"HIN",
+				"HINSTANCE"
+			],
+			[
+				"windo",
+				"windowName"
+			],
+			[
+				"wn",
+				"WindowProc"
+			],
+			[
+				"REND",
+				"renderPrimitive"
+			],
+			[
+				"st",
+				"stInit"
+			],
+			[
+				"r",
+				"rv"
+			],
+			[
+				"sc",
+				"screenY"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"str",
+				"startPos"
+			],
+			[
+				"scr",
+				"screenX"
+			],
+			[
+				"snd",
+				"sndEnemyJump"
+			],
+			[
+				"sh",
+				"sndShoot"
+			],
+			[
+				"mar",
+				"math.h\tstandard header (deprecated)"
+			],
+			[
+				"I",
+				"Inc\t#include <…>"
+			],
+			[
+				"maK",
+				"MakeWindowBorderlessFullscreen"
+			],
+			[
+				"ve",
+				"velY"
+			],
+			[
+				"HCU",
+				"HCURSOR"
+			],
+			[
+				"di",
+				"died"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"bul",
+				"bulletDC"
+			],
+			[
+				"bu",
+				"bulletDC"
+			],
+			[
+				"upd",
+				"update"
+			],
+			[
+				"cAM",
+				"cameraX"
+			],
+			[
+				"came",
+				"cameraY"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"Ini",
+				"initPlace"
+			],
+			[
+				"fil",
+				"l_file"
+			],
+			[
+				"_1",
+				"_1_Path"
+			],
+			[
+				"l",
+				"l_file"
+			],
+			[
+				"_",
+				"_1"
+			],
+			[
+				"M",
+				"MWm"
+			],
+			[
+				"bg",
+				"BgDC"
+			],
+			[
+				"Bg",
+				"BgBMP"
+			],
+			[
+				"Back",
+				"BackDC"
+			],
+			[
+				"bac",
+				"BackBMP"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"Playe",
+				"PlayerBMP"
+			],
+			[
+				"Bac",
+				"backDC"
+			],
+			[
+				"gam",
+				"gamePlay"
+			],
+			[
+				"bak",
+				"backDC"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"old",
+				"oldB"
+			],
+			[
+				"H",
+				"HPEN"
+			],
+			[
+				"Pipe",
+				"PipeW"
+			],
+			[
+				"Ba",
+				"BackImg"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"pip",
+				"PipeY"
+			],
+			[
+				"pipe",
+				"PipeH"
+			],
+			[
+				"Cw",
+				"CW_USEDEFAULT"
+			],
+			[
+				"hins",
+				"hinstance"
+			],
+			[
+				"b",
+				"boyDc"
+			],
+			[
+				"bo",
+				"boyDc"
+			],
+			[
+				"ene",
+				"enemies"
+			],
+			[
+				"dra",
+				"drawY"
+			],
+			[
+				"dr",
+				"drawX"
+			],
+			[
+				"tar",
+				"targetX"
+			],
+			[
+				"player",
+				"playerY"
+			],
+			[
+				"ma",
+				"MAP_H"
+			],
+			[
+				"bakc",
+				"backDC"
+			],
+			[
+				"Player",
+				"playerImg"
+			],
+			[
+				"playe",
+				"playerImg"
+			],
+			[
+				"n",
+				"nCmsShow"
+			],
+			[
+				"en",
+				"enemy_1"
+			],
+			[
+				"enm",
+				"enemy_1"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"wall",
+				"walls"
+			],
+			[
+				"playerPos",
+				"playerPositionX"
+			],
+			[
+				"HWND",
+				"hwnd"
+			],
+			[
+				"til",
+				"tiles"
+			],
+			[
+				"fi",
+				"first_time"
+			],
+			[
+				"wind",
+				"windowHandle"
+			],
+			[
+				"camer",
+				"cameraPositionX"
+			],
+			[
+				"HI",
+				"hInstance"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"Loa",
+				"loadPlayerImage"
+			],
+			[
+				"Play",
+				"playerIco"
+			],
+			[
+				"Fill",
+				"FillRect"
+			],
+			[
+				"hin",
+				"hInstance"
+			],
+			[
+				"Wn",
+				"wndName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 5733,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inc/player.h",
+			"settings":
+			{
+				"buffer_size": 7784,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inc/platform.h",
+			"settings":
+			{
+				"buffer_size": 2459,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/000.sublime-build",
+					""
+				],
+				[
+					"Packages/User/111.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/good.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylibuntitled.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylibuntitled.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/good.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/raylibuntitled.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylibuntitled.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/raylibuntitled.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sele",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"brp",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 422.0,
+		"history":
+		[
+			"hello",
+			"'hello'",
+			"{  'Hello'  }",
+			"{    }",
+			"{}",
+			"}",
+			"{",
+			"print('1'); print('2')",
+			"myApp()",
+			"pass",
+			"def myApp():",
+			"print(brothers[0])",
+			"brothers = [\"omar\", \"mohmoad\"]",
+			"clear",
+			"v",
+			"-v",
+			"python -v",
+			"py -v",
+			"print(\"Hello\")",
+			"console.log(\"Hello World!\");",
+			"10 + 10",
+			"IO.bat",
+			"#include <iostream>;",
+			"#include <iostream>",
+			"cout<<\"Hello\";",
+			"console.log(\"Hello\")",
+			"10 + 1",
+			"cout << \"hello\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/MOUSE7/Desktop/projects/platformer",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc"
+	],
+	"file_history":
+	[
+		"/C/Users/MOUSE7/Desktop/yeah.bmp",
+		"/C/Users/MOUSE7/Desktop/projects/nes game/nes.cfg",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/masm-asm-x64.sublime-build",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/6502.sublime-build",
+		"/C/Users/MOUSE7/Desktop/projects/nes game/neslib.h",
+		"/C/Users/MOUSE7/Desktop/projects/nes game/crt0.s",
+		"/C/Users/MOUSE7/Desktop/projects/nes game/tiles.chr",
+		"/C/Users/MOUSE7/Desktop/projects/nes game/main.c",
+		"/C/Users/MOUSE7/Desktop/projects/yy-chr20120407_en/yychr.ENG",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/nes.sublime-build",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/output.asm",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/player.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/main_menu.h",
+		"/C/Users/MOUSE7/Desktop/projects/asm/main.asm",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/gameObjMangement.cpp",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/source/platform.cpp",
+		"/C/Users/MOUSE7/Desktop/hey.ceol",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/music/main_menu.ceol",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/music/moon.ceol",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/rocketShooter.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/walkingEnemy.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/platform.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/jumppad.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/jumpingEnemy.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/gameObj.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/collictable.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/bullet.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/box.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/scenes.h",
+		"/C/Users/MOUSE7/Desktop/projects/asm/main.s",
+		"/C/Users/MOUSE7/Desktop/lolo.csv.lnk",
+		"/C/Users/MOUSE7/Desktop/projects/grid_game/main.c",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/000.sublime-build",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/111.sublime-build",
+		"/C/Users/MOUSE7/Desktop/projects/flappy_bird/main.cpp",
+		"/P/-/fcuex/palettes/New folder/omar.pal",
+		"/P/-/fcuex/palettes/FCEUX.pal",
+		"/P/-/fcuex/palettes/ASQ_realityA.pal",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/levels/level_1.sl",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/tilemap.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/debug.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/export/manual.html",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/back.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/main.cpp",
+		"/P/o.pre",
+		"/C/Users/MOUSE7/Desktop/projects/grid_game/player.c",
+		"/C/Users/MOUSE7/Desktop/projects/grid_game/camera.c",
+		"/C/Users/MOUSE7/Desktop/projects/grid_game/enemy.c",
+		"/C/Users/MOUSE7/.openjfx/cache/23.0.1+4/amd64/api-ms-win-core-synch-l1-2-0.dll",
+		"/P/-/levels/level.csv",
+		"/P/oma.csv",
+		"/P/untitled.json",
+		"/P/untitled.csv",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/global.h",
+		"/C/Users/MOUSE7/Desktop/main.asm",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/spriteManger.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/metadata.rc",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/version.h",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/main.exe",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/inc/input.h",
+		"/C/Users/MOUSE7/Desktop/sfml game/main.cpp",
+		"/C/Users/MOUSE7/Desktop/projects/platformer/sprites/Sprite-0001.json",
+		"/C/Users/MOUSE7/Desktop/m.exe",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/MOUSE7/Desktop/projects/my game engine/include/omar.h",
+		"/C/Users/MOUSE7/Desktop/projects/my game engine/include/window.h",
+		"/C/Users/MOUSE7/Desktop/projects/my game engine/source/window.cpp",
+		"/C/Users/MOUSE7/Desktop/projects/my game engine/source/main.cpp",
+		"/C/Users/MOUSE7/Desktop/projects/my game engine/source/window.h",
+		"/C/Users/MOUSE7/Desktop/projects/dirext x game/main.cpp",
+		"/C/Users/MOUSE7/Desktop/projects/dirext x game/project.sublime-build",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/player.h",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/tilemap.h",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/rocketShooter.h",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/jumpingEnemy.h",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/bullet.h",
+		"/C/Users/MOUSE7/Desktop/platformer/main.cpp",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/walkingEnemy.h",
+		"/C/Users/MOUSE7/Desktop/paper invaders/main.py",
+		"/C/Users/MOUSE7/Desktop/platformer/tilesets/moon/main.py",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/raylibuntitled.sublime-build",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/camera.h",
+		"/C/Users/MOUSE7/Desktop/platformer/levels/level_1.sl",
+		"/C/Users/MOUSE7/Desktop/flappy_bird/main.cpp",
+		"/C/Users/MOUSE7/Desktop/grid_game/player.c",
+		"/C/Users/MOUSE7/Desktop/grid_game/the_boy.c",
+		"/C/Users/MOUSE7/Desktop/grid_game/tilemap.c",
+		"/C/Users/MOUSE7/Desktop/grid_game/main.c",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/input.h",
+		"/C/Users/MOUSE7/Desktop/flappy_bird/header/input.h",
+		"/C/Users/MOUSE7/Desktop/flappy_bird/header/player.h",
+		"/C/MinGW/include/windows.h",
+		"/C/Users/MOUSE7/Desktop/platformer/levels/map.txt",
+		"/C/Users/MOUSE7/Desktop/platformer/inc/global.h",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/good.sublime-build",
+		"/C/Users/MOUSE7/AppData/Roaming/Sublime Text 3/Packages/User/jsCompetiveProgramming.sublime-build",
+		"/C/Users/MOUSE7/Desktop/flappy_bird/header/global.h",
+		"/C/Users/MOUSE7/Desktop/rpg game/header/global.h",
+		"/C/Users/MOUSE7/Desktop/rpg game/main.cpp",
+		"/C/Users/MOUSE7/Desktop/rpg game/header/player.h",
+		"/D/Documents/super mono fox/scenes/elements/scripts/button.gd",
+		"/C/Users/MOUSE7/Desktop/grid_game/resource.o",
+		"/P/-/games/Funki/EXPORT/ayman.fun",
+		"/C/Users/MOUSE7/Desktop/platformer c++ game/main.c",
+		"/C/Users/MOUSE7/AppData/Local/Temp/Rar$DR06.052/data.win",
+		"/C/Users/MOUSE7/AppData/Local/Temp/Rar$DR06.052/demo_03.json",
+		"/C/Users/MOUSE7/AppData/Local/Temp/Rar$DR06.052/demo_02.json",
+		"/C/Users/MOUSE7/AppData/Local/Temp/Rar$DR06.052/demo_01.json",
+		"/C/Users/MOUSE7/Desktop/grid_game/stb_image.h",
+		"/C/Users/MOUSE7/Desktop/c++ game/player.cpp",
+		"/C/Users/MOUSE7/Desktop/c++ game/main.cpp",
+		"/C/Users/MOUSE7/Desktop/cube factory/main.cpp",
+		"/C/Users/MOUSE7/Desktop/olib/olib.h",
+		"/C/Users/MOUSE7/Desktop/olib/main.cpp",
+		"/C/Users/MOUSE7/Desktop/grid_game/png.cpp",
+		"/C/Users/MOUSE7/Desktop/dodge_game/main.cpp",
+		"/C/Users/MOUSE7/Desktop/the battery game/main.c",
+		"/C/Users/MOUSE7/Desktop/the battery game/level_1",
+		"/C/Users/MOUSE7/Desktop/washing/main.c",
+		"/C/Users/MOUSE7/Desktop/c_game/main.c",
+		"/C/Users/MOUSE7/Desktop/olib/include/olib.h",
+		"/C/Users/MOUSE7/Desktop/c_game/raylib.h",
+		"/C/Users/MOUSE7/Desktop/platformer c++ game/SDL3-3.4.0/i686-w64-mingw32/share/licenses/SDL3/LICENSE.txt",
+		"/C/Users/MOUSE7/Desktop/platformer c++ game/main.cpp",
+		"/C/Users/MOUSE7/Desktop/platformer c++ game/SDL3-3.4.0/i686-w64-mingw32/lib/cmake/SDL3/SDL3headersTargets.cmake",
+		"/C/Users/MOUSE7/Desktop/platformer c++ game/SDL3-3.4.0/i686-w64-mingw32/lib/cmake/SDL3/SDL3ConfigVersion.cmake",
+		"/C/Users/MOUSE7/Desktop/platformer c++ game/SDL3-3.4.0/i686-w64-mingw32/lib/cmake/SDL3/SDL3Config.cmake",
+		"/C/Users/MOUSE7/Desktop/platformer c++ game/SDL3-3.4.0/cmake/SDL3ConfigVersion.cmake"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\MOUSE7\\Desktop\\projects\\platformer"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "inc/player.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4555,
+								4555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "inc/platform.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 213.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/111.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

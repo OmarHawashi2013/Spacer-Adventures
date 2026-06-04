@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spacer Adventures - Manual</title>
+    <style>
+        /* EGA 16-Color Palette inspired style */
+        body {
+            background-color: #000000; /* Black */
+            color: #AAAAAA;           /* Light Gray (EGA Color 7) */
+            font-family: "Courier New", Courier, monospace;
+            margin: 0;
+            padding: 40px;
+            image-rendering: pixelated; /* Essential for your pixel art */
+        }
+
+        /* ASCII-like Header */
+        h1 {
+            color: #55FFFF;           /* Bright Cyan (EGA Color 11) */
+            border: 3px double #AAAAAA;
+            display: inline-block;
+            padding: 10px 20px;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+        }
+
+        .screen-gallery {
+            margin-bottom: 30px;
+        }
+
+        img {
+            border: 2px solid #555555; /* Dark Gray */
+            margin: 5px;
+            /* Keep original size or scale integer-wise */
+        }
+
+        .content-box {
+            border-left: 4px solid #AA5500; /* Brown (EGA Color 6) */
+            padding-left: 20px;
+            margin-top: 30px;
+            text-align: left;
+        }
+
+        h2 {
+            color: #FFFF55;           /* Bright Yellow (EGA Color 14) */
+            font-size: 1.2em;
+            text-decoration: underline;
+        }
+
+        .controls-table {
+            color: #FFFFFF;           /* White */
+            margin-top: 15px;
+        }
+
+        .key {
+            color: #55FF55;           /* Bright Green (EGA Color 10) */
+            font-weight: bold;
+        }
+
+        footer {
+            margin-top: 60px;
+            color: #555555;           /* Dark Gray */
+            font-size: 0.8em;
+            border-top: 1px dashed #555555;
+            padding-top: 10px;
+        }
+
+        /* Text selection looks like old terminals */
+        ::selection {
+            background: #AAAAAA;
+            color: #000000;
+        }
+    </style>
+</head>
+<body>
+
+	<p>
+        ================================================<br>
+        =   /----\  \       /|  ------  |-----|        =<br>
+        =  |      | | \    / | /      \ |      |       =<br>
+        =  |      | |  \  /  | |------| |-----|        =<br>
+        =  |      | |   \/   | |      | |     \        =<br>
+        =  \ ____ / |        | |      | |      \       =<br>
+        =                                              =<br>
+        =  [ OMAR ENGINE - Custom Win32 Framework ]    =<br>
+        =  [ Developed by: Omar Hawash | (C) 2026 ]    =<br>
+        ================================================<br>
+    </p>
+
+    <h1>> SPACER ADVENTURES MANUAL</h1>
+
+    <div class="screen-gallery">
+        <img src="screenshots/screenshot_1.png" width="319" height="173">
+        <img src="screenshots/screenshot_2.png" width="319" height="173">
+        <img src="screenshots/screenshot_3.png" width="319" height="173">
+    </div>
+
+    <div class="content-box">
+        <p>A game made by <strong>Omar Hawash</strong>.</p>
+        <p>MISSION: Play as Spacer and defeat the alien invaders.</p>
+
+        <h2>SYSTEM_CONTROLS:</h2>
+        <div class="controls-table">
+            <p><span class="key">[ARROWS]</span> ...... MOVE</p>
+            <p><span class="key">[Z]</span> .......... JUMP</p>
+            <p><span class="key">[X]</span> .......... SHOOT</p>
+            <p><span class="key">[C]</span> .......... RUN</p>
+        </div>
+    </div>
+
+</body>
+</html>
